@@ -1,10 +1,12 @@
 institution,degree,course,grade,type
-University of Arizona,MS,Data Mining and Discovery,currently enrolled,Programming
-University of Arizona,MS,Statistical Natural Language Processing,currently enrolled,Programming
-University of Arizona,MS,R Programming,A,Programming
-University of Arizona,MS,Intro to Modeling in Biology,A,Programming
-University of Arizona,MS,Ecological Forecasting,A ,Math and Statistics
-University of Wisconsin - La Crosse,BS,Elementary Statistics,A,Math and Statistics
-University of Wisconsin - La Crosse,BS,Quantitative Methods in Ecology,A,Math and Statistics
-Waupun High School,HSD,AP Calculus,A,Math and Statistics
-University of Wisconsin - La Crosse,BS,Precalculus,A,Math and Statistics
+University of Arizona,MS,Dendrochronology Intensive Summer Course,NA,Ecology
+University of Arizona,MS,Forest Ecology,A,Ecology
+University of Arizona,MS,Global Change,A,Ecology
+University of Arizona,MS,Introduction to Python,currently enrolled,Data Science
+University of Arizona,MS,Advanced GIS,currently enrolled,Data Science
+University of Arizona,MS,Ecological Forecasting,A ,Data Science
+University of Arizona,MS,General Linear and Mixed Effect Models,A,Data Science
+University of Wisconsin - La Crosse,BS,ANOVA and Design of Experiments,A,Data Science
+University of Wisconsin - La Crosse,BS,Correlation and Regression Analysis,A,Data Science
+University of Wisconsin - La Crosse,BS,Quantitative Methods in Ecology,A,Data Science
+University of Cape Town,BS,Calculus,A,Data Science
