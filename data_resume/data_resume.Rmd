@@ -1,12 +1,11 @@
 ---
-name: Noah Giebink
+name: Courtney Giebink
 # position: "Graduate Assistant"
-aboutme: Researcher, Science communicator, Aspiring data scientist
+aboutme: Researcher, Science communicator
 address: "University of Arizona"
-phone: +1 920 763 3784
-email: "nwgiebink@gmail.com"
-github: nwgiebink
-linkedin: nwgiebink
+#phone: +1 920 857 8602
+email: "clgiebink@gmail.com"
+github: clgiebink
 headcolor: 414141
 date: "`r format(Sys.time(), '%B %Y')`"
 output: 
@@ -91,16 +90,16 @@ workshops %>%
 
 # Coursework
 
-## Programming
+## Ecology
 ```{r}
 coursework %>%
-  filter(type == 'Programming') %>%
+  filter(type == 'Ecology') %>%
   brief_entries(what = paste(course, paste0('(',grade,')')))
 ```
-## Math and Statistics
+## Data Science
 ```{r}
 coursework %>%
-  filter(type == 'Math and Statistics') %>%
+  filter(type == 'Data Science') %>%
   brief_entries(what = paste(course, paste0('(',grade,')')))
 ```
 
@@ -110,11 +109,5 @@ coursework %>%
 awards %>%
   detailed_entries(what = paste(title, amount), with = agency, when = date)
 ```
-
-# Publications
-Russell, A.L., Kikuchi, D.W., **Giebink, N.W.**, & D.R. Papaj. (2020).  Sensory bias and signal detection tradeoffs maintain intersexual floral mimicry. Philosophical Transactions B special issue. 
-
-De Luca, P. A., **Giebink, N.**, Mason, A. C., Papaj, D., & Buchmann, S. L. (2018). How well do acoustic recordings characterize properties of bee (Anthophila) floral sonication vibrations? Bioacoustics, 1–14. 
-
 
 
